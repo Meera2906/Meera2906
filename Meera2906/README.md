@@ -63,7 +63,7 @@
 
 <h3 align="left">🧲 Drop me a line:</h3>
 <div align="left">
-  <a href="mailto:meerafareena2905@gmail.com"><img width="35px" src="https://github.com/Meera2906/Meera2906/tree/main/Meera2906/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="mailto:meerafareena2905@gmail.com"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/tree/main/Meera2906/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/tree/main/Meera2906/icons/11zon_cropped.png" alt="Portfolio" /></a>
   <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/tree/main/Meera2906/icons/spotify-icon.png" alt="Spotify" /></a>
