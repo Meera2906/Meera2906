@@ -105,9 +105,8 @@
 <!-- GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-  <!-- <img width="398" src="https://github-readme-stats.vercel.app/api?username=Meera2906&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> -->
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Meera2906&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=meera2906&theme=nord&hide_border=false" alt="." />
+<img width="398" src="https://github-readme-stats.vercel.app/api?username=Meera2906&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=meera2906&theme=highcontrast&hide_border=false" alt="." />
 </div>
 
 
@@ -117,16 +116,16 @@
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
 <a href="https://github.com/Meera2906/Visitor-Risk-Score-Engine">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=Visitor-Risk-Score-Engine" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=Visitor-Risk-Score-Engine&theme=swift" />
 </a>
 <a href="https://github.com/Meera2906/self-evolving-ai-mentor-ecosystem">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=self-evolving-ai-mentor-ecosystem" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=self-evolving-ai-mentor-ecosystem&theme=swift" />
 </a>
 <a href="https://github.com/Meera2906/meera-fareena-portfolio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=meera-fareena-portfolio" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=meera-fareena-portfolio&theme=swift" />
 </a>
 <a href="https://github.com/Meera2906/calculator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=calculator" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=calculator&theme=swift" />
 </a>
 <!-- Placeholder for your upcoming project -->
 <a href="https://giphy.com/gifs/PG6HSXWleKVqgeDTOF"
