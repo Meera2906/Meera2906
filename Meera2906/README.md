@@ -135,16 +135,16 @@
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
 <a href="https://github.com/Meera2906/Visitor-Risk-Score-Engine">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=Visitor-Risk-Score-Engine" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=Visitor-Risk-Score-Engine&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d" />
 </a>
 <a href="https://github.com/Meera2906/self-evolving-ai-mentor-ecosystem">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=self-evolving-ai-mentor-ecosystem" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=self-evolving-ai-mentor-ecosystem&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d" />
 </a>
 <a href="https://github.com/Meera2906/meera-fareena-portfolio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=meera-fareena-portfolio" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=meera-fareena-portfolio&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d" />
 </a>
 <a href="https://github.com/Meera2906/calculator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=calculator" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=calculator&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d" />
 </a>
 <!-- Placeholder for your upcoming project -->
 <a href="https://giphy.com/gifs/PG6HSXWleKVqgeDTOF"
