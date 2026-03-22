@@ -49,23 +49,23 @@
     <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/meera2906" /></a>
   
 </div>
+<br>
 
 <img align="left" alt="coding-gif" width="400" 
-     style="margin-right: 20px; margin-bottom: 10px;" 
      src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/transparent_gitgif.gif" />
      
 <!-- About Me -->
-<h3 align="left">💫 About Me</h3>
+<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💫 About Me</h3>
 <p>
-  🌱 Currently learning, building, and improving my programming skills.<br>
-  🔭 Pursuing **B.Tech in Artificial Intelligence & Data Science**.<br>
-  💬 Working with languages like Python and SQL to build real-world solutions.<br>
-  ⚡ Interested in AI/ML, Data Science, automation, and development.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning, building, and improving my programming skills.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 Pursuing <b>B.Tech in Artificial Intelligence & Data Science</b>.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬 Working with languages like Python and SQL to build real-world solutions.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Interested in AI/ML, Data Science, automation, and development.<br>
 </p>
 
-<h3 align="left">🧲 Drop me a line:</h3>
+<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧲 Drop me a line:</h3>
 <div align="left">
-  <a href="mailto:meerafareena2905@gmail.com"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:meerafareena2905@gmail.com"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/meera-fareena-90007a330" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://meera-fareena-portfolio.vercel.app/" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/11zon_cropped.png" alt="Portfolio" /></a>
   <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/spotify-icon.png" alt="Spotify" /></a>
