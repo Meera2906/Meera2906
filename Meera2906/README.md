@@ -50,8 +50,10 @@
   
 </div>
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/transparent_gitgif.gif" />
-
+<img align="left" alt="coding-gif" width="400" 
+     style="margin-right: 20px; margin-bottom: 10px;" 
+     src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/transparent_gitgif.gif" />
+     
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
@@ -138,14 +140,14 @@
 <a href="https://github.com/Meera2906/self-evolving-ai-mentor-ecosystem">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=self-evolving-ai-mentor-ecosystem" />
 </a>
-<a href="https://github.com/Meera2906/portfolio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=portfolio" />
+<a href="https://github.com/Meera2906/meera-fareena-portfolio">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=meera-fareena-portfolio" />
 </a>
 <a href="https://github.com/Meera2906/calculator">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=calculator" />
 </a>
 <!-- Placeholder for your upcoming project -->
-<a href="#">
+<a href="https://giphy.com/gifs/PG6HSXWleKVqgeDTOF"
   <img width="400" src="https://via.placeholder.com/400x120/000000/FFFFFF?text=🚧+Upcoming+Project" />
 </a>
 
