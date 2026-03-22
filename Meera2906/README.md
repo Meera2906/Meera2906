@@ -66,8 +66,8 @@
   <a href="mailto:meerafareena2905@gmail.com"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/meera-fareena-90007a330" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://meera-fareena-portfolio.vercel.app/" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src=https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src=https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/youtube-red1.png" alt="YouTube" /></a>
+  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/spotify-icon.png" alt="Spotify" /></a>
+  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/Meera2906/Meera2906/blob/main/Meera2906/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
 <br>
