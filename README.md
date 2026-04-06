@@ -105,8 +105,7 @@
 <!-- GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-<img width="398" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Meera2906&theme=dark" alt="GitHub Streak" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=meera2906&theme=highcontrast&hide_border=false" alt="." />
+<img width="398" src="https://streak-stats.demolab.com?user=Meera2906&theme=dark" alt="GitHub Streak" />
 </div>
 
 
@@ -115,21 +114,29 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
+    
 <a href="https://github.com/Meera2906/Visitor-Risk-Score-Engine">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=Visitor-Risk-Score-Engine&theme=swift" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Meera2906&repo=Visitor-Risk-Score-Engine&theme=dark" />
 </a>
+
 <a href="https://github.com/Meera2906/self-evolving-ai-mentor-ecosystem">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=self-evolving-ai-mentor-ecosystem&theme=swift" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Meera2906&repo=self-evolving-ai-mentor-ecosystem&theme=dark" />
 </a>
+
+<a href="https://github.com/Meera2906/play-for-good">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Meera2906&repo=play-for-good&theme=dark" />
+</a>
+
+<a href="https://github.com/Meera2906/Hustlr">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Meera2906&repo=Hustlr&theme=dark" />
+</a>
+
 <a href="https://github.com/Meera2906/meera-fareena-portfolio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=meera-fareena-portfolio&theme=swift" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Meera2906&repo=meera-fareena-portfolio&theme=dark" />
 </a>
+
 <a href="https://github.com/Meera2906/calculator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Meera2906&repo=calculator&theme=swift" />
-</a>
-<!-- Placeholder for your upcoming project -->
-<a href="https://giphy.com/gifs/PG6HSXWleKVqgeDTOF"
-  <img width="400" src="https://via.placeholder.com/400x120/000000/FFFFFF?text=🚧+Upcoming+Project" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Meera2906&repo=calculator&theme=dark" />
 </a>
 
   </p>
@@ -177,10 +184,10 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 <a href="https://plotly.com/" target="_blank">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
-<a href="https://xgboost.ai/" target="_blank">
+<!-- <a href="https://xgboost.ai/" target="_blank">
   <img src="https://img.shields.io/badge/XGBoost-EB5E28? style=for-the-badge&logo=python&logoColor=white"></a> 
 <a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0? style=for-the-badge&logo=python&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0? style=for-the-badge&logo=python&logoColor=white"></a> -->
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"></a>
 <a href="https://www.anaconda.com/" target="_blank">
