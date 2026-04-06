@@ -105,7 +105,7 @@
 <!-- GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-<img width="398" src="https://github-readme-stats.vercel.app/api?username=Meera2906&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=8" />
+<img width="398" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Meera2906&theme=dark" alt="GitHub Streak" />
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=meera2906&theme=highcontrast&hide_border=false" alt="." />
 </div>
 
